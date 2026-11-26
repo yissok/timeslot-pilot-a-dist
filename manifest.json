@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1",
+  "app": "timeslot-pilot-a",
+  "global": "__sveltekit_jpwo65",
+  "start": "_app/immutable/entry/start.DBLJW7h9.js",
+  "appEntry": "_app/immutable/entry/app.BKOcYMHZ.js",
+  "styles": [
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/assets/0.DhiSY61-.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/entry/start.DBLJW7h9.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/D-2M9NIA.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/Cj58iBRr.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/entry/app.BKOcYMHZ.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/DlcQv9rr.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/NBvlK8W5.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/D5PTe1jb.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/BM_awGhB.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/BT-n1Tp7.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/nodes/0.CQZb43-B.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/D1CNBbKL.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/DFZzu6br.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/DVKZ2JW0.js",
+    "https://yissok.github.io/timeslot-pilot-a-dist/releases/e8ca9f0e01960da08d0b3ef55e51af8d04e1f2e8-45859541105-1/_app/immutable/chunks/BDzL9Zlj.js"
+  ],
+  "social": {
+    "title": "Timeslot Pilot A",
+    "description": "An interactive website created with Project Factory."
+  },
+  "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+}
